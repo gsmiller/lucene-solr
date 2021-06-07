@@ -27,7 +27,8 @@ Optimizations
 
 Bug Fixes
 ---------------------
-(No changes)
+
+* LUCENE-9988: Fix DrillSideways correctness bug introduced in LUCENE-9944 (Greg Miller)
 
 Other
 ---------------------
